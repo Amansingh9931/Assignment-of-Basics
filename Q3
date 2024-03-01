@@ -1,0 +1,5 @@
+/*
+int ---1byte
+bool ---4byte
+float ---2byte
+*/
